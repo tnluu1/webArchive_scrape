@@ -1,0 +1,22 @@
+{
+    "dates": [
+        {
+            "stoage_size": " SMALL ,  5' X 5' ,  SMALL ,  5' X 5' ,  SMALL ,  5' X 10' ,  SMALL ,  5' X 10' ,   MEDIUM  ,  5' X 15' ,   MEDIUM  ,  10' X 10' ,   MEDIUM  ,  10' X 10' ,   MEDIUM  ,  10' X 10' ,   MEDIUM  ,  10' X 15' ,   MEDIUM  ,  10' X 15' ,   MEDIUM  ,  10' X 15' ,   LARGE ,  10' X 20' ,   LARGE ,  10' X 20' ,   LARGE ,  10' X 25' ,   LARGE ,  10' X 30' ,   LARGE ,  20' X 20' ,   LARGE ,  20' X 25' ,   LARGE ,  20' X 30' , ",
+            "description": "Interior Drive-Up, Drive Up, Interior Temperature Control, Drive Up, Drive Up, Interior Drive-Up, Drive Up, Interior Temperature Control, Interior Drive-Up, Drive Up, Interior Temperature Control, Interior Temperature Control, Drive Up, Drive Up, Drive Up, Drive Up, Drive Up, Drive Up, ",
+            "priceA": "$65, $49, $139, $59, $89, $129, $109, $225, $215, $139, $169, $199, $159, $239, $199, $286, $299, $358, ",
+            "priceB": "$71, $54, $152, $65, $98, $141, $119, $246, $235, $152, $185, $217, $174, $261, $217, $312, $326, $391, "
+        },
+        {
+            "stoage_size": "SMALL,  5' X 5' , SMALL,  5' X 10' , SMALL,  5' X 5' ,  MEDIUM ,  5' X 15' ,  MEDIUM ,  10' X 10' ,  MEDIUM ,  10' X 10' ,  LARGE,  10' X 15' ,  LARGE,  10' X 15' , SMALL,  5' X 10' ,  LARGE,  10' X 20' ,  LARGE,  10' X 25' ,  LARGE,  10' X 30' ,  MEDIUM ,  10' X 10' ,  LARGE,  10' X 15' ,  LARGE,  10' X 20' ,  LARGE,  20' X 20' ,  LARGE,  20' X 25' ,  LARGE,  20' X 30' , ",
+            "description": "Drive Up, Drive Up, Interior Drive-Up, Drive Up, Drive Up, Interior Drive-Up, Drive Up, Interior Drive-Up, Interior Temperature Control, Drive Up, Drive Up, Drive Up, Interior Temperature Control, Interior Temperature Control, Interior Temperature Control, Drive Up, Drive Up, Drive Up, ",
+            "priceA": "$45, $85, $99, $109, $119, $129, $135, $149, $159, $159, $199, $229, $245, $279, $289, $399, $459, $499, ",
+            "priceB": "$52, $98, $114, $126, $137, $149, $156, $172, $183, $183, $229, $264, $282, $321, $333, $459, $528, $574, "
+        },
+        {
+            "stoage_size": "SMALL,  5' X 5' , SMALL,  5' X 10' , SMALL,  5' X 5' ,  MEDIUM ,  5' X 15' ,  MEDIUM ,  10' X 10' ,  MEDIUM ,  10' X 10' ,  LARGE,  10' X 15' ,  LARGE,  10' X 15' , SMALL,  5' X 10' ,  LARGE,  10' X 20' ,  LARGE,  10' X 25' ,  LARGE,  10' X 30' ,  MEDIUM ,  10' X 10' ,  LARGE,  10' X 15' ,  LARGE,  10' X 20' ,  LARGE,  20' X 20' ,  LARGE,  20' X 25' ,  LARGE,  20' X 30' , ",
+            "description": "Drive Up, Drive Up, Interior Drive-Up, Drive Up, Drive Up, Interior Drive-Up, Drive Up, Interior Drive-Up, Interior Temperature Control, Drive Up, Drive Up, Drive Up, Interior Temperature Control, Interior Temperature Control, Interior Temperature Control, Drive Up, Drive Up, Drive Up, ",
+            "priceA": "$45, $85, $99, $109, $119, $129, $135, $149, $159, $159, $199, $229, $245, $279, $289, $399, $459, $499, ",
+            "priceB": "$52, $98, $114, $126, $137, $149, $156, $172, $183, $183, $229, $264, $282, $321, $333, $459, $528, $574, "
+        }
+    ]
+}
